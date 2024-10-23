@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: inherit;
+}
+
+html {
+  font-family: "sytem-ui", "sans-serif";
+}
+
+.info {
+  text-align: center;
+  margin-top: 2rem;
+}
+.info__headline {
+  margin-bottom: 0.3rem;
+}
+.info__text:first-of-type {
+  margin-bottom: 0.3rem;
+}
+.info__link {
+  color: #d9fcdb;
+}
+.info__text:last-of-type {
+  margin-top: 0.3rem;
+}
+.info__cursive {
+  font-style: italic;
+}
+
+body {
+  background-color: #96b698;
+  color: #d9fcdb;
+}/*# sourceMappingURL=main.css.map */
